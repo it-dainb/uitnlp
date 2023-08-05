@@ -15,7 +15,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     keywords='natural-language-processing nlp natural-language-understanding uit-nlp vietnamese-word-segmentation',
-    url='https://github.com/uitnlp/uitnlp.git',
+    url='https://github.com/it-dainb/uitnlp.git',
 	license='Apache License 2.0',
     classifiers=[
         'Topic :: Scientific/Engineering :: Artificial Intelligence',
