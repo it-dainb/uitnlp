@@ -5,7 +5,7 @@
 You can install this package from PyPI using [pip](http://www.pip-installer.org):
 
 ```
-$ pip install uitnlp-v2
+$ pip install uit-tokenizer
 ```
 
 ## Example
@@ -13,7 +13,7 @@ $ pip install uitnlp-v2
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-from uitnlp import load_word_segmenter
+from uit_tokenizer import load_word_segmenter
 word_segmenter = load_word_segmenter(feature_name='base_sep_sfx')
 word_segmenter.segment(texts=['Chào mừng bạn đến với Trường Đại học Công nghệ Thông tin, ĐHQG-HCM.'], pre_tokenized=False, batch_size=4)
 ```
