@@ -3,10 +3,10 @@ import setuptools
 with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
-__version__ = 'v0.1.3'
+__version__ = 'v1.0'
 
 setuptools.setup(
-    name='uitnlp_v2',
+    name='uit_tokenizer',
     packages=setuptools.find_packages(),
     version=__version__,
     author='The UIT Natural Language Processing Group',
