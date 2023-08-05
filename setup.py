@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = 'v0.1.3'
 
 setuptools.setup(
-    name='uitnlp',
+    name='uitnlp_v2',
     packages=setuptools.find_packages(),
     version=__version__,
     author='The UIT Natural Language Processing Group',
