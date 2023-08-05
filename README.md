@@ -5,7 +5,7 @@
 You can install this package from PyPI using [pip](http://www.pip-installer.org):
 
 ```
-$ pip install uitnlp
+$ pip install uitnlp-v2
 ```
 
 ## Example
