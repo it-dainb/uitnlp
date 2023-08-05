@@ -3,7 +3,7 @@ import setuptools
 with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
-__version__ = 'v0.1.2'
+__version__ = 'v0.1.3'
 
 setuptools.setup(
     name='uitnlp',
